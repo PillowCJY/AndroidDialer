@@ -11,11 +11,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-/*
-*   159336 Assignment 1
-*   Junyi Chen
-*   16192554
-* */
 
 public class MainActivity extends Activity {
 
